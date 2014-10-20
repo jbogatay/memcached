@@ -17,6 +17,5 @@ To view available options
 
 
 
-### Shout out to the folks at [microbox](http://microbox.io) and their awesome [16MB 
-dockerui](https://github.com/microbox/dockerui) as inspiration.
+### Shout out to the folks at [microbox](http://microbox.io) and their awesome [16MB  dockerui](https://github.com/microbox/dockerui) as inspiration.
 
